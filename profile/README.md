@@ -1,5 +1,7 @@
 # Vehicle Parking Management System
 
+![Screenshot](Home-Page.png)
+
 A robust, Spring Boot-based solution designed to streamline vehicle parking operations, slot allocation, and administrative oversight. This system leverages custom data structures and a file-based persistence layer to provide a lightweight yet powerful management experience.
 
 ## 🚀 Features
